@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-built the Chromalescence app as a Commercial app. This SERVICE is provided by and is intended for use as is.
+Richard Phan built the Chromalescence app as a Commercial app. This SERVICE is provided by Richard Phan and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
